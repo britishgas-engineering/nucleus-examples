@@ -1,17 +1,9 @@
 <main class="ndsn">
   <ns-form>
-    <ns-inputter validation="['isRequired']" helper="So we can send you love letters">
+    <ns-inputter validation="[&quot;isRequired&quot;]" helper="So we can send you love letters">
       <label slot="label">First name</label>
       <input type="text">
     </ns-inputter>
     <ns-cta onClick="submitForm">Submit</ns-cta>
   </ns-form>
 </main>
-
-<script type="text/javascript">
-  submitForm() {
-    const form = document.querySelector('ns-form');
-    const formData = form.validate();
-    console.log(formData);
-  }
-</script>

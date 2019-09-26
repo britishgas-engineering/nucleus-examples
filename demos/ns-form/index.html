@@ -1,6 +1,12 @@
 <head></head>
 <head>
-  <script src="/demo.js"></script>
+  <script>
+    function submitForm() {
+      const form = document.querySelector('ns-form');
+      const formData = form.validate();
+      console.log(formData);
+    }
+  </script>
 </head>
 <body>
   <main class="ndsn">

@@ -1,9 +1,0 @@
----
- name: Example of ns-landmark
- authors:
-   - Nucleus
- resources:
-   - https://www.britishgas.co.uk/nucleus/nucleus.min.js
- normalize_css: no
- load_type: d
----

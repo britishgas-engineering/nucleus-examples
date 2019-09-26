@@ -1,0 +1,14 @@
+{
+  "name": "ns-decoration",
+  "version": "1.0.0",
+  "description": "Example of ns-decoration",
+  "main": "demo.html",
+  "scripts": {
+    "start": "parcel demo.html --open",
+    "build": "parcel build demo.html"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1"
+  }
+}

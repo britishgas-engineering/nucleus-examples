@@ -41,3 +41,7 @@ To create examples of Nucleus components for codesandbox.io.
 [ns-tabs](https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-tabs)
 
 [ns-video](https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-video)
+
+[ns-header](https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-header)
+
+[ns-footer](https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-footer)

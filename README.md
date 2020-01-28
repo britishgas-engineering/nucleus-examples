@@ -10,8 +10,6 @@ To create examples of Nucleus components for codesandbox.io.
 
 [ns-cta](https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-cta)
 
-[ns-decoration](https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-decoration)
-
 [ns-editorial](https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-editorial)
 
 [ns-expander](https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-expander)

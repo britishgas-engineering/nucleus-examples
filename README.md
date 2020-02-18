@@ -32,6 +32,8 @@ To create examples of Nucleus components for codesandbox.io.
 
 [ns-panel](https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-panel)
 
+[ns-price](https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-price)
+
 [ns-selector](https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-selector)
 
 [ns-tab](https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-tab)

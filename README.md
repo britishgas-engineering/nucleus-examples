@@ -16,6 +16,8 @@ To create examples of Nucleus components for codesandbox.io.
 
 [ns-expander](https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-expander)
 
+[ns-fieldset](https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-fieldset)
+
 [ns-form](https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-form)
 
 [ns-icon](https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-icon)

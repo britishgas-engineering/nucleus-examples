@@ -1,7 +1,7 @@
 {
-  "name": "ns-datepicker",
+  "name": "ns-download",
   "version": "1.0.0",
-  "description": "Example of ns-datepicker",
+  "description": "Example of ns-download",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",

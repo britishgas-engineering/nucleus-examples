@@ -1,21 +1,20 @@
 <head></head>
 <head>
   <script>
-    function submitForm() {
-      const form = document.querySelector('ns-form');
-      const formData = form.validate();
+    function submittedForm(event) {
+      const formData = event.target.validate();
       console.log(formData);
     }
   </script>
 </head>
 <body>
   <main class="ndsn">
-    <ns-form>
+    <ns-form onsubmit="submittedForm(event)">
       <ns-inputter validation="[&quot;isRequired&quot;]" helper="So we can send you love letters">
         <label slot="label">First name</label>
         <input type="text">
       </ns-inputter>
-      <ns-cta onClick="submitForm()">Submit</ns-cta>
+      <ns-cta>Submit</ns-cta>
     </ns-form>
   </main>
   <script src="https://www.britishgas.co.uk/nucleus/nucleus.min.js"></script>

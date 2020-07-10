@@ -1,19 +1,15 @@
 <head></head>
 <body>
   <main class="ndsn">
-    <ns-product-card keyline="green">
+    <ns-product-card keyline="green-light">
       <ns-image slot="image" src="/aem6/content/dam/britishgas/images/ns/image16_9.png" alt="Description of image" ratio="16x9"></ns-image>
       <p slot="highlight">Recommended</p>
       <h2 slot="name">Product Name</h2>
-      <h3 slot="priceHeading">Estimated</h3>
-      <p slot="price">
-        <b>
-          <ns-price pence="1200"></ns-price>
-        </b> / month
-      </p>
-      <p slot="secondaryPrice">
-        <ns-price pence="14400"></ns-price> / year
-      </p>
+      <h3 slot="price-heading">Estimated</h3>
+      <div slot="price">
+        <p><b><ns-price pence="1200"></ns-price></b> / month</p>
+        <p><ns-price pence="14400"></ns-price> / year</p>
+      </div>
       <div slot="description">
         <p>A description of this product</p>
         <ul class="ul-ticked">
@@ -23,15 +19,15 @@
           <li>Feature 4</li>
         </ul>
       </div>
-      <ns-expander slot="expander" role="tab">
+      <ns-expander slot="expander">
         <h3 slot="heading">Expander</h3>
         <p>Expander details</p>
       </ns-expander>
-      <ns-expander slot="expander" role="tab">
+      <ns-expander slot="expander">
         <h3 slot="heading">Expander</h3>
         <p>Expander details</p>
       </ns-expander>
-      <ns-cta href="#" slot="cta">Hey ho let's go</ns-cta>
+      <ns-cta href="#" slot="cta">Do something</ns-cta>
     </ns-product-card>
   </main>
 

@@ -1,6 +1,6 @@
 {
   "name": "ns-caveat",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Example of ns-caveat",
   "main": "index.html",
   "scripts": {

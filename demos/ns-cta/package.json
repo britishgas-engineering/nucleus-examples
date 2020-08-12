@@ -1,6 +1,6 @@
 {
   "name": "ns-cta",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Example of ns-cta",
   "main": "index.html",
   "scripts": {

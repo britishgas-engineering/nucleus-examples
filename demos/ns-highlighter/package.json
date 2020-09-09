@@ -1,6 +1,6 @@
 {
   "name": "ns-highlighter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Example of ns-highlighter",
   "main": "index.html",
   "scripts": {

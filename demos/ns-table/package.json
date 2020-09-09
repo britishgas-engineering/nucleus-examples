@@ -1,6 +1,6 @@
 {
   "name": "ns-table",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Example of ns-table",
   "main": "index.html",
   "scripts": {

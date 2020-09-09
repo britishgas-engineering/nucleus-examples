@@ -1,6 +1,6 @@
 {
   "name": "ns-decoration",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Example of ns-decoration",
   "main": "index.html",
   "scripts": {

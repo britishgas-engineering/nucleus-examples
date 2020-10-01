@@ -1,7 +1,7 @@
 {
-  "name": "ns-inputter--text-last-name",
+  "name": "ns-inputter--checkbox",
   "version": "1.0.0",
-  "description": "Example of ns-inputter--text-last-name",
+  "description": "Example of ns-inputter--checkbox",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",

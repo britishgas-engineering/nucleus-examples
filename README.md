@@ -38,7 +38,15 @@ To create examples of Nucleus components for codesandbox.io.
 
 [ns-inputter](https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-inputter)
 
-[ns-inputter--text-last-name](https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-inputter--text-last-name)
+[ns-inputter--radio](https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-inputter--radio)
+
+[ns-inputter--checkbox](https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-inputter--checkbox)
+
+[ns-inputter--select](https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-inputter--select)
+
+[ns-inputter--separator](https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-inputter--separator)
+
+[ns-inputter--mask](https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-inputter--mask)
 
 [ns-landmark](https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-landmark)
 

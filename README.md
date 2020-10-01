@@ -38,6 +38,8 @@ To create examples of Nucleus components for codesandbox.io.
 
 [ns-inputter](https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-inputter)
 
+[ns-inputter--text-last-name](https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-inputter--text-last-name)
+
 [ns-landmark](https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-landmark)
 
 [ns-lockup](https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-lockup)

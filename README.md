@@ -38,6 +38,20 @@ To create examples of Nucleus components for codesandbox.io.
 
 [ns-inputter](https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-inputter)
 
+[ns-inputter--checkbox](https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-inputter--checkbox)
+
+[ns-inputter--email](https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-inputter--email)
+
+[ns-inputter--mask](https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-inputter--mask)
+
+[ns-inputter--radio](https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-inputter--radio)
+
+[ns-inputter--select](https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-inputter--select)
+
+[ns-inputter--separator](https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-inputter--separator)
+
+[ns-inputter--tel](https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-inputter--tel)
+
 [ns-landmark](https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-landmark)
 
 [ns-lockup](https://codesandbox.io/s/github/britishgas-engineering/nucleus-examples/tree/master/demos/ns-lockup)

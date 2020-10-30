@@ -1,0 +1,15 @@
+{
+  "name": "ns-appointment-picker",
+  "version": "1.0.1",
+  "description": "Example of ns-appointment-picker",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "parcel-bundler": "^1.6.1",
+    "@babel/core": "7.2.0"
+  }
+}

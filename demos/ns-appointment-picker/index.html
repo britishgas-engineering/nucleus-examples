@@ -1,0 +1,45 @@
+<head>
+  <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
+</head>
+<body>
+  <main class="ndsn">
+    <ns-appointment-picker></ns-appointment-picker>
+  </main>
+  <script src="https://www.britishgas.co.uk/nucleus/nucleus.min.js"></script>
+  <script>
+
+    const leadingZero = (number) => {
+      if (number < 10) {
+        return '0' + number;
+      } else {
+        return number;
+      }
+    };
+
+    const dateToISOString = (date) => {
+      return `${date.getFullYear()}-${leadingZero(date.getMonth() + 1)}-${leadingZero(date.getDate())}`;
+    };
+
+    const numDays = 60;
+    const slots = [{
+      name: '9am to 12pm',
+      value: '0900-1200'
+    }, {
+      name: '10am to 1pm',
+      value: '1000-1300'
+    }, {
+      name: '11am to 2pm',
+      value: '1100-1400'
+    }];
+    const date = new Date();
+
+    const slotData = [];
+    for (let i = 0; i < numDays; i++) {
+      slotData.push({ date: dateToISOString(date), slots: slots });
+      date.setDate(date.getDate() + 1);
+    }
+
+    document.querySelector('ns-appointment-picker').setAttribute('slotdata', JSON.stringify(slotData));
+
+  </script>
+</body>
